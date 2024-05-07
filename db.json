@@ -148,20 +148,6 @@
       "surname": "saraev",
       "email": "admin@gmail.com",
       "password": "admin"
-    },
-    {
-      "id": "c7ad",
-      "name": "Алиса",
-      "surname": "Абадчикова",
-      "email": "aba@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "8768",
-      "name": "sad",
-      "surname": "asd",
-      "email": "q@q",
-      "password": "1"
     }
   ]
 }
